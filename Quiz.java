@@ -23,8 +23,6 @@ public class Quiz {
 
         Question("Who is the president of India?");
         Answer("Droupadi Murmu");
-        
-
     }
 
     public static void main(String args[]) {
